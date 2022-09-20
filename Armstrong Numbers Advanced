@@ -89,5 +89,4 @@ else if((num-less)<(more-num))
     {
         printf("%d is closest armstrong number",less);
     }
-
 }
